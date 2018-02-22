@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Counter</string>
+    <string name="restart">Restart</string>
+    <string name="visitor">Visitor</string>
+    <string name="zero">0</string>
+    <string name="home">Home</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="field_goal">Feild Goal</string>
+    <string name="extra_point">Extra Point</string>
+</resources>
